@@ -1,3 +1,3 @@
-let naam = "KIRAN"
+let naam = "KIrAN"
 let name = naam.toLowerCase();
-console.log(naam);
+console.log(name);
