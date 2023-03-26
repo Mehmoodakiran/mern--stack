@@ -1,3 +1,3 @@
-let naam = "KIraN"
+let naam = "    KIraN         "
 let name = naam.trimEnd();
-console.log(naam);
+console.log(name);
