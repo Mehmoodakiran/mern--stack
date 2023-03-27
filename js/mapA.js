@@ -1,3 +1,3 @@
-const myArray = ['3', '4', '8', '6'];
+const myArray = ['3', '5', '6', '8'];
 const result = myArray.map((n) => n * 2)
 console.log(result)
